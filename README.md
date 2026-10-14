@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20to%20PFE%20internship-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Available-MONTH%20YEAR-blue" alt="Available">
+  <img src="https://img.shields.io/badge/Available-FEB%2027-blue" alt="Available">
   <img src="https://img.shields.io/badge/Location-Agadir%2C%20Morocco-lightgrey" alt="Location">
 </p>
 
@@ -27,11 +27,11 @@ I am looking for a **final-year internship (PFE)** in **Data Engineering, Machin
 
 | Project | Description | Stack |
 |---|---|---|
-| **[VibAE-Monitor](https://github.com/YOUR-USERNAME/VibAE-Monitor)** | Predictive maintenance. A 2D CNN autoencoder on STFT spectrograms detects bearing anomalies, and a fine-tuned DenseNet121 classifies 10 fault types (~92% accuracy) on the CWRU dataset. Real-time dashboard with a 0-100 severity score. | Python, DenseNet121, FastAPI, Plotly.js |
-| **[C-MAPSS Predictive Maintenance](https://github.com/YOUR-USERNAME/REPO-NAME)** | End-to-end streaming pipeline simulating IoT sensor data, LSTM models estimating Remaining Useful Life, and a Streamlit dashboard raising preventive maintenance alerts. | Kafka, Spark, LSTM, Streamlit |
+| **[VibAE-Monitor](https://github.com/ilyassTakmout/VibAE-Monitor)** | Predictive maintenance. A 2D CNN autoencoder on STFT spectrograms detects bearing anomalies, and a fine-tuned DenseNet121 classifies 10 fault types (~92% accuracy) on the CWRU dataset. Real-time dashboard with a 0-100 severity score. | Python, DenseNet121, FastAPI, Plotly.js |
+| **[C-MAPSS Predictive Maintenance](https://github.com/ilyassTakmout/REPO-NAME)** | End-to-end streaming pipeline simulating IoT sensor data, LSTM models estimating Remaining Useful Life, and a Streamlit dashboard raising preventive maintenance alerts. | Kafka, Spark, LSTM, Streamlit |
 | **TrustPool** | AI-powered peer-to-peer insurance platform. Multilingual RAG copilot (FR/AR/EN), AI anti-fraud engine (94% detection) and a TF-IDF recommendation system, on a containerized microservices architecture. | Gemini, pgvector, Kafka, Docker Compose, scikit-learn |
 | **YouTube Trends ETL** | Automated pipeline ingesting 50,000+ videos per day from the YouTube Data API, cutting processing time by 60% versus the manual process. | Python, Airflow, YouTube Data API |
-| **[Transport Data Warehouse](https://github.com/YOUR-USERNAME/REPO-NAME)** | Star-schema data warehouse hosted on AWS RDS, Talend ETL pipelines, and interactive Power BI dashboards with DAX measures for cost-of-non-quality tracking. | Talend, AWS RDS, Power BI |
+| **[Transport Data Warehouse](https://github.com/ilyassTakmout/REPO-NAME)** | Star-schema data warehouse hosted on AWS RDS, Talend ETL pipelines, and interactive Power BI dashboards with DAX measures for cost-of-non-quality tracking. | Talend, AWS RDS, Power BI |
 | **Oracle PL/SQL Database** | Full database lifecycle: MCD/MLD modeling, stored procedures, functions, triggers and packages, with RBAC and transaction management. | Oracle, PL/SQL |
 
 ---
